@@ -1,0 +1,116 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+
+<div>
+    <div class="row" id="login" style="display:none">
+        <div class="col-12">
+            <div class="form-group row">
+                <label class="col-form-label col-2 text-end">Username</label>
+                <div class="col-5">
+                    <div class="input-group">
+                        <input type="text" class="form-control" id="user">
+                        <button type="button" id="join" class="btn btn-warning">Join</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row" id="darea" style="display:none">
+        <div class="col-12 text-center text-uppercase text-primary" >
+            <h1>Joined as <span id="display"></span></h1>
+        </div>
+    </div>
+    <div class="row my-2" id="chat" style="display:none">
+        <div class="col-2 text-center">
+            <h2>Users</h2>
+            <ul class="list-group text-uppercase " id="c_users" >
+            </ul>
+        </div>
+        <div class="col-10">
+            <div class="form-group row">
+                <div class="input-group">
+                    <input type="text" class="form-control" style="border-radius: 5px;" id="chatMessage">
+                    <button type="button" id="send" class="btn btn-warning mx-1" style="border-radius: 5px;">Send</button>
+                    <button type="button" id="browse" class="btn btn-warning" style="border-radius: 5px;">Browse</button>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-12">
+                    <h2 class="offset-4">Messages</h2>
+                    <div class="list-group" id="chatting"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<input type="file" id="file" style="display:none" accept=".jpg,.png,.gif" />
+
+@section scripts {
+    <script src="~/libs/jquery/jquery.js"></script>
+
+    <script src="~/libs/signalr/signalr.js"></script>
+    <script>
+
+        var connection = new signalR.HubConnectionBuilder().withUrl("/message").build();
+        connection.on('Connected', (m) => {
+            $("#login").show();
+
+        });
+        connection.on('Joined', (m) => {
+            $("#login").hide();
+            $("#darea").show();
+            $("#chat").show();
+            $("#display").html(displayName);
+        });
+        connection.on('DuplicateUser', (m) => {
+            console.log(m);
+        });
+        connection.on('UpdateUsers', userList => {
+
+            $("#c_users").empty();
+            for (var i = 0; i < userList.length; i++) {
+
+                $("#c_users").append(
+                    `<li class='list-group-item text-primary'>${userList[i]}</li>`
+                );
+            }
+        });
+        connection.on("Message", (u, m) => {
+            if (displayName == u) $("#chatting").append(`<li class="list-group-item bg-dark text-white"><span class="text-uppercase">${u}</span>: ${m}</li>`);
+            else $("#chatting").append(`<li class="list-group-item "><span class="text-uppercase">${u}</span>: ${m}</li>`);
+        })
+        var displayName = '';
+        connection.start().then(() => {
+            $("#login").show();
+            $("#join").click(() => {
+                displayName = $("#user").val();
+                connection.invoke("AddMe", displayName);
+                $("#user").val('');
+            });
+            $('#send').click(() => {
+                if ($("#chatMessage").val() == "") return;
+                connection.invoke("Send", displayName, $("#chatMessage").val());
+            });
+            $('#browse').click(() => {
+                $('#file').click();
+            });
+            $('#file').change(() => {
+                var file = document.getElementById("file").files[0];
+                console.log(file.name);
+                console.log(file.type);
+                var reader = new FileReader();
+                reader.onloadend = function () {
+                    var data = { filename: file.name, image: reader.result };
+                    connection.invoke("Upload", displayName, data);
+                }
+                reader.readAsDataURL(file);
+
+            })
+        }).catch(err => {
+            console.log(err);
+        })
+    </script>
+}
+

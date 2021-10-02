@@ -1,0 +1,227 @@
+E:\ESAD-45\Module 08 AngularJs\SignalR_EV\SignalR_Mid_Month_Evidences\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\ESAD-45\Module 08 AngularJs\SignalR_EV\SignalR_Mid_Month_Evidences\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\appsettings.json
+E:\ESAD-45\Module 08 AngularJs\SignalR_EV\SignalR_Mid_Month_Evidences\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\libman.json
+E:\ESAD-45\Module 08 AngularJs\SignalR_EV\SignalR_Mid_Month_Evidences\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\SignalR_Mid_Month_Ev.exe
+E:\ESAD-45\Module 08 AngularJs\SignalR_EV\SignalR_Mid_Month_Evidences\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\SignalR_Mid_Month_Ev.deps.json
+E:\ESAD-45\Module 08 AngularJs\SignalR_EV\SignalR_Mid_Month_Evidences\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\SignalR_Mid_Month_Ev.runtimeconfig.json
+E:\ESAD-45\Module 08 AngularJs\SignalR_EV\SignalR_Mid_Month_Evidences\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\SignalR_Mid_Month_Ev.runtimeconfig.dev.json
+E:\ESAD-45\Module 08 AngularJs\SignalR_EV\SignalR_Mid_Month_Evidences\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\SignalR_Mid_Month_Ev.dll
+E:\ESAD-45\Module 08 AngularJs\SignalR_EV\SignalR_Mid_Month_Evidences\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\SignalR_Mid_Month_Ev.pdb
+E:\ESAD-45\Module 08 AngularJs\SignalR_EV\SignalR_Mid_Month_Evidences\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\SignalR_Mid_Month_Ev.Views.dll
+E:\ESAD-45\Module 08 AngularJs\SignalR_EV\SignalR_Mid_Month_Evidences\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\SignalR_Mid_Month_Ev.Views.pdb
+E:\ESAD-45\Module 08 AngularJs\SignalR_EV\SignalR_Mid_Month_Evidences\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+E:\ESAD-45\Module 08 AngularJs\SignalR_EV\SignalR_Mid_Month_Evidences\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+E:\ESAD-45\Module 08 AngularJs\SignalR_EV\SignalR_Mid_Month_Evidences\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\ESAD-45\Module 08 AngularJs\SignalR_EV\SignalR_Mid_Month_Evidences\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\ESAD-45\Module 08 AngularJs\SignalR_EV\SignalR_Mid_Month_Evidences\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\ESAD-45\Module 08 AngularJs\SignalR_EV\SignalR_Mid_Month_Evidences\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\ESAD-45\Module 08 AngularJs\SignalR_EV\SignalR_Mid_Month_Evidences\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\ESAD-45\Module 08 AngularJs\SignalR_EV\SignalR_Mid_Month_Evidences\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\ESAD-45\Module 08 AngularJs\SignalR_EV\SignalR_Mid_Month_Evidences\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+E:\ESAD-45\Module 08 AngularJs\SignalR_EV\SignalR_Mid_Month_Evidences\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+E:\ESAD-45\Module 08 AngularJs\SignalR_EV\SignalR_Mid_Month_Evidences\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\ESAD-45\Module 08 AngularJs\SignalR_EV\SignalR_Mid_Month_Evidences\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\ESAD-45\Module 08 AngularJs\SignalR_EV\SignalR_Mid_Month_Evidences\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\ESAD-45\Module 08 AngularJs\SignalR_EV\SignalR_Mid_Month_Evidences\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\ESAD-45\Module 08 AngularJs\SignalR_EV\SignalR_Mid_Month_Evidences\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\ESAD-45\Module 08 AngularJs\SignalR_EV\SignalR_Mid_Month_Evidences\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\ESAD-45\Module 08 AngularJs\SignalR_EV\SignalR_Mid_Month_Evidences\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\ESAD-45\Module 08 AngularJs\SignalR_EV\SignalR_Mid_Month_Evidences\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\ESAD-45\Module 08 AngularJs\SignalR_EV\SignalR_Mid_Month_Evidences\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\ESAD-45\Module 08 AngularJs\SignalR_EV\SignalR_Mid_Month_Evidences\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+E:\ESAD-45\Module 08 AngularJs\SignalR_EV\SignalR_Mid_Month_Evidences\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\ESAD-45\Module 08 AngularJs\SignalR_EV\SignalR_Mid_Month_Evidences\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\ESAD-45\Module 08 AngularJs\SignalR_EV\SignalR_Mid_Month_Evidences\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\ESAD-45\Module 08 AngularJs\SignalR_EV\SignalR_Mid_Month_Evidences\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\ESAD-45\Module 08 AngularJs\SignalR_EV\SignalR_Mid_Month_Evidences\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\ESAD-45\Module 08 AngularJs\SignalR_EV\SignalR_Mid_Month_Evidences\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\ESAD-45\Module 08 AngularJs\SignalR_EV\SignalR_Mid_Month_Evidences\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\ESAD-45\Module 08 AngularJs\SignalR_EV\SignalR_Mid_Month_Evidences\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\ESAD-45\Module 08 AngularJs\SignalR_EV\SignalR_Mid_Month_Evidences\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\ESAD-45\Module 08 AngularJs\SignalR_EV\SignalR_Mid_Month_Evidences\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\ESAD-45\Module 08 AngularJs\SignalR_EV\SignalR_Mid_Month_Evidences\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\ESAD-45\Module 08 AngularJs\SignalR_EV\SignalR_Mid_Month_Evidences\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\ESAD-45\Module 08 AngularJs\SignalR_EV\SignalR_Mid_Month_Evidences\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\ESAD-45\Module 08 AngularJs\SignalR_EV\SignalR_Mid_Month_Evidences\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\ESAD-45\Module 08 AngularJs\SignalR_EV\SignalR_Mid_Month_Evidences\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\ESAD-45\Module 08 AngularJs\SignalR_EV\SignalR_Mid_Month_Evidences\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\ESAD-45\Module 08 AngularJs\SignalR_EV\SignalR_Mid_Month_Evidences\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\ESAD-45\Module 08 AngularJs\SignalR_EV\SignalR_Mid_Month_Evidences\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\ESAD-45\Module 08 AngularJs\SignalR_EV\SignalR_Mid_Month_Evidences\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\ESAD-45\Module 08 AngularJs\SignalR_EV\SignalR_Mid_Month_Evidences\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ESAD-45\Module 08 AngularJs\SignalR_EV\SignalR_Mid_Month_Evidences\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ESAD-45\Module 08 AngularJs\SignalR_EV\SignalR_Mid_Month_Evidences\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ESAD-45\Module 08 AngularJs\SignalR_EV\SignalR_Mid_Month_Evidences\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ESAD-45\Module 08 AngularJs\SignalR_EV\SignalR_Mid_Month_Evidences\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ESAD-45\Module 08 AngularJs\SignalR_EV\SignalR_Mid_Month_Evidences\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ESAD-45\Module 08 AngularJs\SignalR_EV\SignalR_Mid_Month_Evidences\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ESAD-45\Module 08 AngularJs\SignalR_EV\SignalR_Mid_Month_Evidences\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ESAD-45\Module 08 AngularJs\SignalR_EV\SignalR_Mid_Month_Evidences\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ESAD-45\Module 08 AngularJs\SignalR_EV\SignalR_Mid_Month_Evidences\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ESAD-45\Module 08 AngularJs\SignalR_EV\SignalR_Mid_Month_Evidences\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ESAD-45\Module 08 AngularJs\SignalR_EV\SignalR_Mid_Month_Evidences\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ESAD-45\Module 08 AngularJs\SignalR_EV\SignalR_Mid_Month_Evidences\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ESAD-45\Module 08 AngularJs\SignalR_EV\SignalR_Mid_Month_Evidences\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ESAD-45\Module 08 AngularJs\SignalR_EV\SignalR_Mid_Month_Evidences\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ESAD-45\Module 08 AngularJs\SignalR_EV\SignalR_Mid_Month_Evidences\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ESAD-45\Module 08 AngularJs\SignalR_EV\SignalR_Mid_Month_Evidences\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ESAD-45\Module 08 AngularJs\SignalR_EV\SignalR_Mid_Month_Evidences\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ESAD-45\Module 08 AngularJs\SignalR_EV\SignalR_Mid_Month_Evidences\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ESAD-45\Module 08 AngularJs\SignalR_EV\SignalR_Mid_Month_Evidences\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ESAD-45\Module 08 AngularJs\SignalR_EV\SignalR_Mid_Month_Evidences\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ESAD-45\Module 08 AngularJs\SignalR_EV\SignalR_Mid_Month_Evidences\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ESAD-45\Module 08 AngularJs\SignalR_EV\SignalR_Mid_Month_Evidences\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ESAD-45\Module 08 AngularJs\SignalR_EV\SignalR_Mid_Month_Evidences\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ESAD-45\Module 08 AngularJs\SignalR_EV\SignalR_Mid_Month_Evidences\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ESAD-45\Module 08 AngularJs\SignalR_EV\SignalR_Mid_Month_Evidences\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ESAD-45\Module 08 AngularJs\SignalR_EV\SignalR_Mid_Month_Evidences\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ESAD-45\Module 08 AngularJs\SignalR_EV\SignalR_Mid_Month_Evidences\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ESAD-45\Module 08 AngularJs\SignalR_EV\SignalR_Mid_Month_Evidences\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ESAD-45\Module 08 AngularJs\SignalR_EV\SignalR_Mid_Month_Evidences\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ESAD-45\Module 08 AngularJs\SignalR_EV\SignalR_Mid_Month_Evidences\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ESAD-45\Module 08 AngularJs\SignalR_EV\SignalR_Mid_Month_Evidences\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ESAD-45\Module 08 AngularJs\SignalR_EV\SignalR_Mid_Month_Evidences\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ESAD-45\Module 08 AngularJs\SignalR_EV\SignalR_Mid_Month_Evidences\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ESAD-45\Module 08 AngularJs\SignalR_EV\SignalR_Mid_Month_Evidences\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ESAD-45\Module 08 AngularJs\SignalR_EV\SignalR_Mid_Month_Evidences\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ESAD-45\Module 08 AngularJs\SignalR_EV\SignalR_Mid_Month_Evidences\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ESAD-45\Module 08 AngularJs\SignalR_EV\SignalR_Mid_Month_Evidences\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ESAD-45\Module 08 AngularJs\SignalR_EV\SignalR_Mid_Month_Evidences\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ESAD-45\Module 08 AngularJs\SignalR_EV\SignalR_Mid_Month_Evidences\SignalR_Mid_Month_Ev\obj\Debug\netcoreapp3.1\SignalR_Mid_Month_Ev.AssemblyInfoInputs.cache
+E:\ESAD-45\Module 08 AngularJs\SignalR_EV\SignalR_Mid_Month_Evidences\SignalR_Mid_Month_Ev\obj\Debug\netcoreapp3.1\SignalR_Mid_Month_Ev.AssemblyInfo.cs
+E:\ESAD-45\Module 08 AngularJs\SignalR_EV\SignalR_Mid_Month_Evidences\SignalR_Mid_Month_Ev\obj\Debug\netcoreapp3.1\SignalR_Mid_Month_Ev.csproj.CoreCompileInputs.cache
+E:\ESAD-45\Module 08 AngularJs\SignalR_EV\SignalR_Mid_Month_Evidences\SignalR_Mid_Month_Ev\obj\Debug\netcoreapp3.1\SignalR_Mid_Month_Ev.MvcApplicationPartsAssemblyInfo.cache
+E:\ESAD-45\Module 08 AngularJs\SignalR_EV\SignalR_Mid_Month_Evidences\SignalR_Mid_Month_Ev\obj\Debug\netcoreapp3.1\SignalR_Mid_Month_Ev.RazorAssemblyInfo.cache
+E:\ESAD-45\Module 08 AngularJs\SignalR_EV\SignalR_Mid_Month_Evidences\SignalR_Mid_Month_Ev\obj\Debug\netcoreapp3.1\SignalR_Mid_Month_Ev.RazorAssemblyInfo.cs
+E:\ESAD-45\Module 08 AngularJs\SignalR_EV\SignalR_Mid_Month_Evidences\SignalR_Mid_Month_Ev\obj\Debug\netcoreapp3.1\staticwebassets\SignalR_Mid_Month_Ev.StaticWebAssets.Manifest.cache
+E:\ESAD-45\Module 08 AngularJs\SignalR_EV\SignalR_Mid_Month_Evidences\SignalR_Mid_Month_Ev\obj\Debug\netcoreapp3.1\staticwebassets\SignalR_Mid_Month_Ev.StaticWebAssets.xml
+E:\ESAD-45\Module 08 AngularJs\SignalR_EV\SignalR_Mid_Month_Evidences\SignalR_Mid_Month_Ev\obj\Debug\netcoreapp3.1\scopedcss\bundle\SignalR_Mid_Month_Ev.styles.css
+E:\ESAD-45\Module 08 AngularJs\SignalR_EV\SignalR_Mid_Month_Evidences\SignalR_Mid_Month_Ev\obj\Debug\netcoreapp3.1\SignalR_Mid_Month_Ev.TagHelpers.input.cache
+E:\ESAD-45\Module 08 AngularJs\SignalR_EV\SignalR_Mid_Month_Evidences\SignalR_Mid_Month_Ev\obj\Debug\netcoreapp3.1\SignalR_Mid_Month_Ev.TagHelpers.output.cache
+E:\ESAD-45\Module 08 AngularJs\SignalR_EV\SignalR_Mid_Month_Evidences\SignalR_Mid_Month_Ev\obj\Debug\netcoreapp3.1\SignalR_Mid_Month_Ev.RazorCoreGenerate.cache
+E:\ESAD-45\Module 08 AngularJs\SignalR_EV\SignalR_Mid_Month_Evidences\SignalR_Mid_Month_Ev\obj\Debug\netcoreapp3.1\Razor\Views\Chat\Index.cshtml.g.cs
+E:\ESAD-45\Module 08 AngularJs\SignalR_EV\SignalR_Mid_Month_Evidences\SignalR_Mid_Month_Ev\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\ESAD-45\Module 08 AngularJs\SignalR_EV\SignalR_Mid_Month_Evidences\SignalR_Mid_Month_Ev\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\ESAD-45\Module 08 AngularJs\SignalR_EV\SignalR_Mid_Month_Evidences\SignalR_Mid_Month_Ev\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\ESAD-45\Module 08 AngularJs\SignalR_EV\SignalR_Mid_Month_Evidences\SignalR_Mid_Month_Ev\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\ESAD-45\Module 08 AngularJs\SignalR_EV\SignalR_Mid_Month_Evidences\SignalR_Mid_Month_Ev\obj\Debug\netcoreapp3.1\SignalR_Mid_Month_Ev.RazorTargetAssemblyInfo.cache
+E:\ESAD-45\Module 08 AngularJs\SignalR_EV\SignalR_Mid_Month_Evidences\SignalR_Mid_Month_Ev\obj\Debug\netcoreapp3.1\SignalR_Mid_Month_Ev.RazorTargetAssemblyInfo.cs
+E:\ESAD-45\Module 08 AngularJs\SignalR_EV\SignalR_Mid_Month_Evidences\SignalR_Mid_Month_Ev\obj\Debug\netcoreapp3.1\SignalR_Mid_Month_Ev.Views.pdb
+E:\ESAD-45\Module 08 AngularJs\SignalR_EV\SignalR_Mid_Month_Evidences\SignalR_Mid_Month_Ev\obj\Debug\netcoreapp3.1\SignalR_Mid_Month_Ev.csproj.CopyComplete
+E:\ESAD-45\Module 08 AngularJs\SignalR_EV\SignalR_Mid_Month_Evidences\SignalR_Mid_Month_Ev\obj\Debug\netcoreapp3.1\SignalR_Mid_Month_Ev.dll
+E:\ESAD-45\Module 08 AngularJs\SignalR_EV\SignalR_Mid_Month_Evidences\SignalR_Mid_Month_Ev\obj\Debug\netcoreapp3.1\SignalR_Mid_Month_Ev.pdb
+E:\ESAD-45\Module 08 AngularJs\SignalR_EV\SignalR_Mid_Month_Evidences\SignalR_Mid_Month_Ev\obj\Debug\netcoreapp3.1\SignalR_Mid_Month_Ev.genruntimeconfig.cache
+E:\ESAD-45\Projects\GitHub\SignalR\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\ESAD-45\Projects\GitHub\SignalR\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\appsettings.json
+E:\ESAD-45\Projects\GitHub\SignalR\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\libman.json
+E:\ESAD-45\Projects\GitHub\SignalR\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\SignalR_Mid_Month_Ev.exe
+E:\ESAD-45\Projects\GitHub\SignalR\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\SignalR_Mid_Month_Ev.deps.json
+E:\ESAD-45\Projects\GitHub\SignalR\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\SignalR_Mid_Month_Ev.runtimeconfig.json
+E:\ESAD-45\Projects\GitHub\SignalR\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\SignalR_Mid_Month_Ev.runtimeconfig.dev.json
+E:\ESAD-45\Projects\GitHub\SignalR\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\SignalR_Mid_Month_Ev.dll
+E:\ESAD-45\Projects\GitHub\SignalR\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\SignalR_Mid_Month_Ev.pdb
+E:\ESAD-45\Projects\GitHub\SignalR\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\SignalR_Mid_Month_Ev.Views.dll
+E:\ESAD-45\Projects\GitHub\SignalR\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\SignalR_Mid_Month_Ev.Views.pdb
+E:\ESAD-45\Projects\GitHub\SignalR\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+E:\ESAD-45\Projects\GitHub\SignalR\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+E:\ESAD-45\Projects\GitHub\SignalR\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\ESAD-45\Projects\GitHub\SignalR\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\ESAD-45\Projects\GitHub\SignalR\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\ESAD-45\Projects\GitHub\SignalR\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\ESAD-45\Projects\GitHub\SignalR\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\ESAD-45\Projects\GitHub\SignalR\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\ESAD-45\Projects\GitHub\SignalR\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+E:\ESAD-45\Projects\GitHub\SignalR\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+E:\ESAD-45\Projects\GitHub\SignalR\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\ESAD-45\Projects\GitHub\SignalR\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\ESAD-45\Projects\GitHub\SignalR\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\ESAD-45\Projects\GitHub\SignalR\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\ESAD-45\Projects\GitHub\SignalR\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\ESAD-45\Projects\GitHub\SignalR\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\ESAD-45\Projects\GitHub\SignalR\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\ESAD-45\Projects\GitHub\SignalR\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\ESAD-45\Projects\GitHub\SignalR\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\ESAD-45\Projects\GitHub\SignalR\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+E:\ESAD-45\Projects\GitHub\SignalR\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\ESAD-45\Projects\GitHub\SignalR\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\ESAD-45\Projects\GitHub\SignalR\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\ESAD-45\Projects\GitHub\SignalR\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\ESAD-45\Projects\GitHub\SignalR\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\ESAD-45\Projects\GitHub\SignalR\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\ESAD-45\Projects\GitHub\SignalR\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\ESAD-45\Projects\GitHub\SignalR\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\ESAD-45\Projects\GitHub\SignalR\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\ESAD-45\Projects\GitHub\SignalR\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\ESAD-45\Projects\GitHub\SignalR\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\ESAD-45\Projects\GitHub\SignalR\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\ESAD-45\Projects\GitHub\SignalR\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\ESAD-45\Projects\GitHub\SignalR\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\ESAD-45\Projects\GitHub\SignalR\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\ESAD-45\Projects\GitHub\SignalR\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\ESAD-45\Projects\GitHub\SignalR\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\ESAD-45\Projects\GitHub\SignalR\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\ESAD-45\Projects\GitHub\SignalR\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\ESAD-45\Projects\GitHub\SignalR\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ESAD-45\Projects\GitHub\SignalR\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ESAD-45\Projects\GitHub\SignalR\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ESAD-45\Projects\GitHub\SignalR\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ESAD-45\Projects\GitHub\SignalR\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ESAD-45\Projects\GitHub\SignalR\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ESAD-45\Projects\GitHub\SignalR\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ESAD-45\Projects\GitHub\SignalR\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ESAD-45\Projects\GitHub\SignalR\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ESAD-45\Projects\GitHub\SignalR\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ESAD-45\Projects\GitHub\SignalR\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ESAD-45\Projects\GitHub\SignalR\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ESAD-45\Projects\GitHub\SignalR\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ESAD-45\Projects\GitHub\SignalR\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ESAD-45\Projects\GitHub\SignalR\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ESAD-45\Projects\GitHub\SignalR\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ESAD-45\Projects\GitHub\SignalR\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ESAD-45\Projects\GitHub\SignalR\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ESAD-45\Projects\GitHub\SignalR\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ESAD-45\Projects\GitHub\SignalR\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ESAD-45\Projects\GitHub\SignalR\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ESAD-45\Projects\GitHub\SignalR\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ESAD-45\Projects\GitHub\SignalR\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ESAD-45\Projects\GitHub\SignalR\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ESAD-45\Projects\GitHub\SignalR\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ESAD-45\Projects\GitHub\SignalR\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ESAD-45\Projects\GitHub\SignalR\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ESAD-45\Projects\GitHub\SignalR\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ESAD-45\Projects\GitHub\SignalR\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ESAD-45\Projects\GitHub\SignalR\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ESAD-45\Projects\GitHub\SignalR\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ESAD-45\Projects\GitHub\SignalR\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ESAD-45\Projects\GitHub\SignalR\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ESAD-45\Projects\GitHub\SignalR\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ESAD-45\Projects\GitHub\SignalR\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ESAD-45\Projects\GitHub\SignalR\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ESAD-45\Projects\GitHub\SignalR\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ESAD-45\Projects\GitHub\SignalR\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ESAD-45\Projects\GitHub\SignalR\SignalR_Mid_Month_Ev\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ESAD-45\Projects\GitHub\SignalR\SignalR_Mid_Month_Ev\obj\Debug\netcoreapp3.1\SignalR_Mid_Month_Ev.csproj.AssemblyReference.cache
+E:\ESAD-45\Projects\GitHub\SignalR\SignalR_Mid_Month_Ev\obj\Debug\netcoreapp3.1\SignalR_Mid_Month_Ev.AssemblyInfoInputs.cache
+E:\ESAD-45\Projects\GitHub\SignalR\SignalR_Mid_Month_Ev\obj\Debug\netcoreapp3.1\SignalR_Mid_Month_Ev.AssemblyInfo.cs
+E:\ESAD-45\Projects\GitHub\SignalR\SignalR_Mid_Month_Ev\obj\Debug\netcoreapp3.1\SignalR_Mid_Month_Ev.csproj.CoreCompileInputs.cache
+E:\ESAD-45\Projects\GitHub\SignalR\SignalR_Mid_Month_Ev\obj\Debug\netcoreapp3.1\SignalR_Mid_Month_Ev.MvcApplicationPartsAssemblyInfo.cache
+E:\ESAD-45\Projects\GitHub\SignalR\SignalR_Mid_Month_Ev\obj\Debug\netcoreapp3.1\SignalR_Mid_Month_Ev.RazorAssemblyInfo.cache
+E:\ESAD-45\Projects\GitHub\SignalR\SignalR_Mid_Month_Ev\obj\Debug\netcoreapp3.1\SignalR_Mid_Month_Ev.RazorAssemblyInfo.cs
+E:\ESAD-45\Projects\GitHub\SignalR\SignalR_Mid_Month_Ev\obj\Debug\netcoreapp3.1\staticwebassets\SignalR_Mid_Month_Ev.StaticWebAssets.Manifest.cache
+E:\ESAD-45\Projects\GitHub\SignalR\SignalR_Mid_Month_Ev\obj\Debug\netcoreapp3.1\staticwebassets\SignalR_Mid_Month_Ev.StaticWebAssets.xml
+E:\ESAD-45\Projects\GitHub\SignalR\SignalR_Mid_Month_Ev\obj\Debug\netcoreapp3.1\scopedcss\bundle\SignalR_Mid_Month_Ev.styles.css
+E:\ESAD-45\Projects\GitHub\SignalR\SignalR_Mid_Month_Ev\obj\Debug\netcoreapp3.1\SignalR_Mid_Month_Ev.TagHelpers.input.cache
+E:\ESAD-45\Projects\GitHub\SignalR\SignalR_Mid_Month_Ev\obj\Debug\netcoreapp3.1\SignalR_Mid_Month_Ev.TagHelpers.output.cache
+E:\ESAD-45\Projects\GitHub\SignalR\SignalR_Mid_Month_Ev\obj\Debug\netcoreapp3.1\SignalR_Mid_Month_Ev.RazorCoreGenerate.cache
+E:\ESAD-45\Projects\GitHub\SignalR\SignalR_Mid_Month_Ev\obj\Debug\netcoreapp3.1\Razor\Views\Chat\Index.cshtml.g.cs
+E:\ESAD-45\Projects\GitHub\SignalR\SignalR_Mid_Month_Ev\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\ESAD-45\Projects\GitHub\SignalR\SignalR_Mid_Month_Ev\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\ESAD-45\Projects\GitHub\SignalR\SignalR_Mid_Month_Ev\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\ESAD-45\Projects\GitHub\SignalR\SignalR_Mid_Month_Ev\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\ESAD-45\Projects\GitHub\SignalR\SignalR_Mid_Month_Ev\obj\Debug\netcoreapp3.1\SignalR_Mid_Month_Ev.RazorTargetAssemblyInfo.cache
+E:\ESAD-45\Projects\GitHub\SignalR\SignalR_Mid_Month_Ev\obj\Debug\netcoreapp3.1\SignalR_Mid_Month_Ev.RazorTargetAssemblyInfo.cs
+E:\ESAD-45\Projects\GitHub\SignalR\SignalR_Mid_Month_Ev\obj\Debug\netcoreapp3.1\SignalR_Mid_Month_Ev.Views.pdb
+E:\ESAD-45\Projects\GitHub\SignalR\SignalR_Mid_Month_Ev\obj\Debug\netcoreapp3.1\SignalR_Mid_Month_Ev.csproj.CopyComplete
+E:\ESAD-45\Projects\GitHub\SignalR\SignalR_Mid_Month_Ev\obj\Debug\netcoreapp3.1\SignalR_Mid_Month_Ev.dll
+E:\ESAD-45\Projects\GitHub\SignalR\SignalR_Mid_Month_Ev\obj\Debug\netcoreapp3.1\SignalR_Mid_Month_Ev.pdb
+E:\ESAD-45\Projects\GitHub\SignalR\SignalR_Mid_Month_Ev\obj\Debug\netcoreapp3.1\SignalR_Mid_Month_Ev.genruntimeconfig.cache
